@@ -1,3 +1,13 @@
+
+
+*/ GIT HUB CON EL READ ME */ 
+
+https://github.com/john-smilga/mern-course-jobify/blob/main/README.MD
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
